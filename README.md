@@ -36,3 +36,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] THE BOYS 4º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acc8f2829c360e3774be9c2f5a9d0623344d7eda</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O mundo está à beira da ruína. Victoria Neuman está cada vez mais perto do Salão Oval sentindo a pressão do Capitão Pátria, cujo poder está se consolidando. Bruto está com pouco tempo de vida, afastado do filho da Becca, e a equipe de The Boys cansou de suas mentiras. Com os riscos extremamente altos, eles precisam encontrar um modo de trabalhar juntos para salvar o mundo antes que seja tarde.</info>
+</item>
