@@ -39,7 +39,9 @@
 
 <item>
 <title>[COLOR silver][B] THE BOYS 4º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acc8f2829c360e3774be9c2f5a9d0623344d7eda</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acc8f2829c360e3774be9c2f5a9d0623344d7eda$nome=THE BOYS EP.1/3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9aa91a00d9d89bf8b37402082c29374b95b7e970$nome=THE BOYS EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20a292c541d441deb4c8d508eafff0f8a9451dc1$nome=THE BOYS EP.5</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> O mundo está à beira da ruína. Victoria Neuman está cada vez mais perto do Salão Oval sentindo a pressão do Capitão Pátria, cujo poder está se consolidando. Bruto está com pouco tempo de vida, afastado do filho da Becca, e a equipe de The Boys cansou de suas mentiras. Com os riscos extremamente altos, eles precisam encontrar um modo de trabalhar juntos para salvar o mundo antes que seja tarde.</info>
